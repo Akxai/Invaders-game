@@ -3,8 +3,8 @@ window.passport = new window.immutable.passport.Passport({
     environment: window.immutable.config.Environment.SANDBOX,
   }),
   clientId: "OrJQAzzHN97dlEXf9WynaYPwCC4foFM9",
-  redirectUri: "https://tiger-hip-pipefish.ngrok-free.app",
-  logoutRedirectUri: "https://tiger-hip-pipefish.ngrok-free.app/logout.html",
+  redirectUri: "https://invaders-game-swart.vercel.app",
+  logoutRedirectUri: "https://invaders-game-swart.vercel.app/logout.html",
   audience: "platform_api",
   scope: "openid offline_access email transact",
 });
